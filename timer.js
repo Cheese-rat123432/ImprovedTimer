@@ -32,7 +32,7 @@ if(window.snake) {
             `
           )
         );
-
+ 
         // eval(
         //   this.responseText.match(
         //     /[a-zA-Z0-9_$]{1,8}=function\(a\){if\(!a\.[a-zA-Z0-9_$]{1,8}&&![a-zA-Z0-9_$]{1,8}\)[^}]*?"show"\)\]\)}}/
